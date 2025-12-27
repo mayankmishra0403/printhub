@@ -1,0 +1,9 @@
+{
+  "name": "auth0-login",
+  "version": "1.0.0",
+  "description": "Auth0 Login Function for PrintHub",
+  "main": "auth0-login.js",
+  "dependencies": {
+    "node-appwrite": "^13.0.0"
+  }
+}

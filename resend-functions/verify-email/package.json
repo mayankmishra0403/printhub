@@ -1,0 +1,10 @@
+{
+  "name": "resend-verify-email",
+  "version": "1.0.0",
+  "description": "Send email verification codes using Resend API",
+  "main": "index.js",
+  "dependencies": {
+    "node-appwrite": "^13.0.0",
+    "node-fetch": "^2.6.11"
+  }
+}

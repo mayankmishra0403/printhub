@@ -1,0 +1,10 @@
+{
+  "name": "resend-send-email",
+  "version": "1.0.0",
+  "description": "Send emails using Resend API",
+  "main": "index.js",
+  "dependencies": {
+    "node-appwrite": "^13.0.0",
+    "node-fetch": "^2.6.11"
+  }
+}
